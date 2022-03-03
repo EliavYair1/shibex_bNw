@@ -8,7 +8,7 @@ Shibex is a Live online gaming website .
 Shibex is the token that allows you to play all the games developed by 
 the talented Shibex Team.
 
-# The Shibex Goal 
+## The Shibex Goal 
 we plan to make one multiplayer arcades game per month 
 
 beginning in February
@@ -23,7 +23,7 @@ we wanted to give the users a Playful atmosphere .
 me personlly (Eliav) really enojyed working with the Shibex
 team and on their life project so hope you guys have a fun experience.
 
-# Run commands (in terminal):
+## Run commands (in terminal):
 
 • Cd {project directory} .
 
@@ -54,7 +54,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# WebSite Link
+## WebSite Link
 
 [www.shibex.game](www.shibex.game)
 

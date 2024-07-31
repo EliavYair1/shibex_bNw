@@ -37,8 +37,14 @@
 @media screen and (max-width: 767px) {
   .layout-caption {
     font-size: 1.1em;
+<<<<<<< HEAD
     width: 300px;
     margin-inline-start: -10px;
+=======
+    width: 270px;
+    margin: 0 auto 59px;
+    /* margin-inline-start: -10px; */
+>>>>>>> b325947 (updating performance)
   }
 }
 @media screen and (max-width: 450px) {
@@ -49,7 +55,12 @@
   }
   .layout-caption {
     margin-bottom: 200px !important;
+<<<<<<< HEAD
     margin-inline-start: -35px;
+=======
+    /* margin-inline-start: -35px; */
+    width: 262px;
+>>>>>>> b325947 (updating performance)
   }
   .img-desktop {
     display: none;
